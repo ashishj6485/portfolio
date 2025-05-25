@@ -116,15 +116,15 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.graphics_icon, title: 'MERN Web Development', description: 'Build modern, responsive web applications using MongoDB, Express Js, React Js, and Node Js.', link: 'https://github.com/ashishj6485' },
+    { icon: assets.graphics_icon, title: 'Web Development', description: 'Build modern, responsive web applications using React Js, Node Js, Next Js, Express Js, MongoDB.', link: 'https://github.com/ashishj6485' },
     { icon: assets.graphics_icon, title: 'Java Development', description: 'Develop scalable and secure applications using core and advanced Java technologies.', link: 'https://github.com/ashishj6485' },
-    { icon: assets.graphics_icon, title: 'Cloud Services', description: 'Deploy, monitor, and manage applications efficiently on cloud platforms like AWS and Azure.', link: 'https://github.com/ashishj6485' },
-    { icon: assets.graphics_icon, title: 'DevOps', description: 'Automate, scale, and streamline your development lifecycle with CI/CD, Docker, and Kubernetes.', link: 'https://github.com/ashishj6485' },
+    { icon: assets.graphics_icon, title: 'Cloud Services', description: 'Deploy, monitor, and manage applications efficiently on cloud platforms like AWS, Vercel, Netlify, Render.', link: 'https://github.com/ashishj6485' },
+    { icon: assets.graphics_icon, title: 'DevOps', description: 'Automate, scale, and streamline your development lifecycle with CI/CD, Docker, Version Control and Kubernetes.', link: 'https://github.com/ashishj6485' },
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'Java, Python, React Js, Node Js, Express Js, C, Javascript, Tailwind CSS, HTML' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Other Skills', description: 'SpringBoot, MongoDB, MySQL, Redux, Cloudinary, Multer, RESTful APIs, Socket.io, JWT, AWS, Azure, DevOps' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'Java, Python, React Js, Node Js, Next Js, Express Js, C, Javascript, Tailwind CSS, HTML' },
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Other Skills', description: 'SpringBoot, Apache Kafka, MongoDB, MySQL, Redux, Cloudinary, Multer, RESTful APIs, Socket.io, JWT, AWS, DevOps, Git, GitHub' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.E. in Computer Science' }
 ];
 
