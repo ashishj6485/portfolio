@@ -99,7 +99,7 @@ export const workData = [
         title: 'Connectify',
         description: 'Web Chat App',
         bgImage: '/chat-app.png',
-        link: 'https://github.com/ashishj6485',
+        link: 'http://connectify-webchatapp.s3-website.ap-south-1.amazonaws.com',
     },
     {
         title: 'Fixora',
